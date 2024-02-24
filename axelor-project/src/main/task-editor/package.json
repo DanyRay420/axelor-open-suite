@@ -22,7 +22,7 @@
     "jss-rtl": "^0.3.0",
     "material-ui-nested-menu-item": "^1.0.2",
     "moment": "^2.25.3",
-    "prettier": "^2.0.5",
+    "prettier": "^2.8.8",
     "react": "^16.13.1",
     "react-beautiful-dnd": "^13.0.0",
     "react-contextmenu": "^2.13.0",
